@@ -1,10 +1,10 @@
 # Codestates AIB Projects
-코드스테이츠 AI 부트캠프 3기 과정 중 수행했던 프로젝트입니다.
-프로젝트를 요약한 내용입니다. <br> 자세한 내용 확인을 위해 [포트폴리오 레포트🔗](https://narrow-goat-9de.notion.site/Hyunji-Shin-Portfolio-d92ddfd2c93b4ec8b6a03d008b41c197)를 확인해주세요.<br>
+코드스테이츠 AI 부트캠프 3기 과정 중 수행했던 프로젝트의 코드입니다. 
+<br> 자세한 내용 확인을 위해 [포트폴리오 레포트🔗](https://narrow-goat-9de.notion.site/Hyunji-Shin-Portfolio-d92ddfd2c93b4ec8b6a03d008b41c197)를 확인해주세요.<br>
 
 
 ## S1 Game Data Analysis | What game shoud i design?
-[s1 프로젝트 레포트🔗](https://narrow-goat-9de.notion.site/What-game-should-i-design-a545cdb16cc44f548229cb8deb9cfec4)
+[1 프로젝트 레포트🔗](https://narrow-goat-9de.notion.site/What-game-should-i-design-a545cdb16cc44f548229cb8deb9cfec4)
 
 ✔ **프로젝트 목적**
 - 1990년 이후 발매된 비디오 게임 출고량 데이터를 분석합니다.
