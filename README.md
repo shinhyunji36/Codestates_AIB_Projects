@@ -4,7 +4,7 @@
 
 
 ## S1 Game Data Analysis | What game shoud i design?
-[1 프로젝트 레포트🔗](https://narrow-goat-9de.notion.site/What-game-should-i-design-a545cdb16cc44f548229cb8deb9cfec4)
+[S1 프로젝트 레포트🔗](https://narrow-goat-9de.notion.site/What-game-should-i-design-a545cdb16cc44f548229cb8deb9cfec4)
 
 ✔ **프로젝트 목적**
 - 1990년 이후 발매된 비디오 게임 출고량 데이터를 분석합니다.
